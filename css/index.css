@@ -1,0 +1,60 @@
+body{
+    margin: auto;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    margin: 0 5px 0 5px;
+}
+
+.home-page-banner{
+text-align: center;
+}
+
+.our-community-partners{
+    text-align: center;
+}
+
+.community-partners-slider{
+    display: flex;
+    justify-content: center;
+}
+
+.your-impacts{
+    text-align: center;
+}
+
+.impact-statistic{
+    display: flex;
+    justify-content: space-around;
+}
+
+.impact-statistic div{
+    width: 10%;
+}
+
+.your-opportunities{
+    text-align: center;
+}
+
+.opportunities-box{
+    display: flex;
+}
+
+footer{
+    text-align: center;
+}
+
+.footer-content{
+    display: flex;
+}
